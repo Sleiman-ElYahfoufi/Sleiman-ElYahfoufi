@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a fullstack developer, with a passion for front-end
+I'm a fullstack developer, looking forward to always enhance my skills and widen my knowledge about technology.
 
 
 # 💻 Tech Stack:
